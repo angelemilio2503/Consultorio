@@ -1,0 +1,8 @@
+{
+    "scripts": {
+  "start": "node index.js",
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "dev": "your-command-to-run-dev-server"
+}
+}
+
